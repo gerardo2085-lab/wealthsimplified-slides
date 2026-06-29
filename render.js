@@ -22,13 +22,19 @@ function findChromiumPath() {
   }
   return null;
 }
-
+function statFontSize(stat) {
+  const len = stat.replace(/\s/g, '').length;
+  if (len <= 5) return 300;
+  if (len <= 8) return 220;
+  if (len <= 12) return 160;
+  return 120;
+}
 function buildBody(slide) {
   if (slide.layout === 'hero') {
     return `
       <div class="hero-headline">${slide.headline}</div>
       <div class="hero-stat-wrap">
-        <div class="hero-stat">${slide.stat}</div>
+        <div class="hero-stat" style="font-size:${statFontSize(slide.stat)}px;">${slide.stat}</div>
         <svg class="hero-ticker" width="560" height="56" viewBox="0 0 560 56">
           <line x1="0" y1="40" x2="560" y2="40" stroke="#3B82F6" stroke-width="1.5" opacity="0.35"/>
           <polyline points="0,46 90,42 180,44 270,30 360,33 450,16 560,10" fill="none" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="filter: drop-shadow(0 0 6px rgba(59,130,246,0.7));"/>
