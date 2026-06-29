@@ -1,0 +1,66 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "<span class=\"accent\">48%</span> of Americans now struggle to pay their monthly bills",
+    "stat": "48%",
+    "context": "Up from 36% in 2021 — a 33% jump in five years. Hardest hit: women at 54% and those with consumer debt at 62%.",
+    "source": "Source: Ramsey Solutions, Q1 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "U.S. GDP growth is slowing to <span class=\"accent\">1.8%</span> in 2026",
+    "stat": "1.8%",
+    "context": "Down from 2.1% in 2025. Consumers pull back while businesses pour money into AI and data centers to keep the economy moving.",
+    "source": "Source: The Conference Board, June 2026",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "Three tickers making moves <span class=\"accent\">this week</span>",
+    "items": [
+      {
+        "ticker": "RKLB",
+        "reason": "Joined the Nasdaq-100 on June 22 — then dropped 40% on profit-taking"
+      },
+      {
+        "ticker": "SCHD",
+        "reason": "14 straight years of dividend growth, now yielding 3.28%"
+      },
+      {
+        "ticker": "SOL",
+        "reason": "Solana ETFs pulling inflows while Ethereum ETFs saw $708M in outflows"
+      }
+    ],
+    "source": "Source: Yahoo Finance, June 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "The average U.S. household now owes <span class=\"accent\">$155,607</span>",
+    "stat": "$155,607",
+    "context": "Total household debt hit $18.8 trillion. Mortgages lead at $12.8T, followed by $1.64T in auto loans and $1.63T in student loans.",
+    "source": "Source: WalletHub, Q1 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "401(k) savings rate just hit a record <span class=\"accent\">14.4%</span>",
+    "stat": "14.4%",
+    "context": "Employee contributions averaged a record 9.6% with employers adding 4.8%. Fidelity's recommended target is 15% — nearly there.",
+    "source": "Source: Fidelity, Q1 2026",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "More tomorrow.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
