@@ -1,0 +1,18 @@
+{
+  "macro": "US inflation accelerated sharply in May, with the CPI rising 4.2% year-over-year — the highest reading in over a year and well above the Fed's 2% target. Energy prices were the primary driver, accounting for more than 60% of the monthly increase, while core CPI ticked up to 2.9%. The timing is critical: with the FOMC's June dot plot already signaling a potential rate hike, this print strengthens the hawks' case and markets are now fully pricing in a 25bp hike by October 2026.",
+  "btc_status": "Bitcoin is trading at $60,029, sitting below its 200-week moving average of $62,457. The Fear & Greed Index reads 36 (Fear), with key support at $58,885 — today's session low — and resistance at the 200-week MA.",
+  "markets": "The AI infrastructure trade continues to bifurcate winners from losers. Dell is the standout, posting a 757% year-over-year jump in AI server revenue to $16.1 billion with a $51.3 billion backlog — Goldman Sachs doubled its price target to $500 in response. Meanwhile, beaten-down names are creating potential entry points: Ethereum sits at $1,566, down 68% from its August 2025 peak near $5,000, holding just above the critical $1,500 support zone. Palantir tells a similar story — down 40% year-to-date despite raising full-year revenue guidance to $7.65 billion and beating on both revenue and EPS in Q1, creating a widening gap between fundamentals and price.",
+  "avoid_today": [
+    {
+      "ticker": "SMCI",
+      "reason": "While AI server peers DELL (+242% YTD) and HPE (+103%) are surging, Super Micro Computer has managed just +9% despite operating in the same booming market. Lingering accounting restatement concerns from 2024 continue to weigh on institutional confidence, and the stock is acting as a value trap until governance questions are fully resolved."
+    }
+  ],
+  "personal_finance_deep_dive": "Credit card delinquencies hit 13.12% of balances 90+ days past due in Q1 2026 — the highest level in 15 years and just 0.6 percentage points from the Great Recession peak of 13.7%. What makes this cycle different is the nature of the debt: analysts describe it as 'survival debt,' with consumers relying on cards not for discretionary spending but for groceries, utilities, and rent. The squeeze is compounding — with average APRs at 21.52%, minimum payments barely cover interest, trapping borrowers in a cycle where 61% have carried a balance for at least a year, up from 53% in late 2024.",
+  "wealth_building_deep_dive": "The 70/30 rule, popularized by financial author David Bach, is the allocation pattern shared by hundreds of thousands of 401(k) millionaires: live on 70% of your post-tax income and direct 30% into savings and investments. The key mechanism is automation — setting up payroll deductions so the money moves before you can spend it. Bach argues that 'unless your financial plan is automatic, it will fail,' and the data backs this up: seven in ten Americans live paycheck to paycheck, but the common thread among self-made millionaires isn't a high income — it's that they consistently spent less than they earned and automated the difference.",
+  "notable": [
+    "Goldman Sachs more than doubled its Dell price target to $500 from $230 — one of the largest single-name PT increases in the bank's coverage universe this year.",
+    "BTC options worth roughly $10B expired this weekend, contributing to elevated volatility around the $60K level.",
+    "Palantir's stock has fallen 40% YTD despite raising full-year guidance — the widest fundamentals-to-price gap among large-cap AI names."
+  ]
+}

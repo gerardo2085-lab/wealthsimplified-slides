@@ -1,0 +1,66 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "<span class=\"accent\">13.12%</span> of credit card balances are now 90+ days late",
+    "stat": "13.12%",
+    "context": "That's the highest delinquency rate in 15 years — just 0.6% from the Great Recession peak of 13.7%.",
+    "source": "Source: NY Fed, Q1 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "US inflation just jumped to <span class=\"accent\">4.2%</span> — the highest in over a year",
+    "stat": "4.2%",
+    "context": "Energy costs drove 60% of the May CPI increase. Markets are now pricing in a rate hike by October.",
+    "source": "Source: BLS, May 2026",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "3 tickers worth watching <span class=\"accent\">this week</span>",
+    "items": [
+      {
+        "ticker": "DELL",
+        "reason": "AI server revenue up 757% YoY to $16.1B — stock up 242% in 2026 with a $51.3B backlog"
+      },
+      {
+        "ticker": "ETH",
+        "reason": "Down 68% from its Aug 2025 peak near $5K — sitting at $1,566 near key $1,500 support"
+      },
+      {
+        "ticker": "PLTR",
+        "reason": "Down 40% YTD but raised guidance to $7.65B — Q1 revenue and EPS both beat estimates"
+      }
+    ],
+    "source": "Source: Yahoo Finance, Crypto.com, June 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "<span class=\"accent\">42%</span> of Americans think they'll carry credit card debt for life",
+    "stat": "42%",
+    "context": "With the average APR at 21.52% and total card debt at a record $1.33 trillion, that belief is becoming a self-fulfilling prophecy.",
+    "source": "Source: Bankrate, May 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "The <span class=\"accent\">30%</span> rule that separates millionaires from everyone else",
+    "stat": "30%",
+    "context": "Live on 70% of your income. Save and invest 30%. Automate it on payday — if it's not automatic, it won't happen.",
+    "source": "Source: Fortune / David Bach, 2026",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "More tomorrow.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
