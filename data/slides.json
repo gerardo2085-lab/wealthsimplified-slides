@@ -1,0 +1,57 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "Americans are saving just <span class=\"accent\">2.6%</span> of their income — a 65-year low",
+    "stat": "2.6%",
+    "context": "Down from 5.8% a year ago. Outside the 2022 revenge-spending era, the savings rate has almost never been this low in modern history.",
+    "source": "Source: BEA, April 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "The Fed's dot plot just flipped — median rate target now <span class=\"accent\">3.8%</span>",
+    "stat": "3.8%",
+    "context": "In Chair Warsh's first meeting, the median policymaker projects rates ending 2026 higher than today. A rate hike is back on the table.",
+    "source": "Source: Federal Reserve, June 2026",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "Three tickers making moves <span class=\"accent\">this week</span>",
+    "items": [
+      {"ticker": "MU", "reason": "Revenue beat by $6B ($41.5B vs $35B expected) — stock up 324% YTD on the AI memory supercycle"},
+      {"ticker": "AVGO", "reason": "Custom AI chips gaining on Nvidia — $1.73T market cap, 25% upside to fair value estimates"},
+      {"ticker": "BTC", "reason": "Fear & Greed at 17 (Extreme Fear) near $60K — RSI approaching oversold at 33"}
+    ],
+    "source": "Source: Bloomberg, CoinMarketCap, June 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "<span class=\"accent\">59%</span> of Americans can't cover a $1,000 emergency",
+    "stat": "59%",
+    "context": "Meanwhile, 37% of households rely on credit for everyday expenses. Wage growth at 3.6% is now lagging 3.8% inflation.",
+    "source": "Source: CNBC, April 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "Investing <span class=\"accent\">$27.40</span> a day could grow to $4.4 million",
+    "stat": "$27.40",
+    "context": "Assuming a 10% annual return over 40 years. 88% of millionaires built their wealth through consistent habits — not inheritance.",
+    "source": "Source: DistillFin, 2026",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "Save this. You'll need it.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
