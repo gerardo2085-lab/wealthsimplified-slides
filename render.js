@@ -10,18 +10,33 @@ const WIDTH = 1080;
 const HEIGHT = 1350;
 
 function findChromiumPath() {
-  const candidates = ['/usr/bin/chromium', '/usr/bin/chromium-browser', '/usr/bin/google-chrome', '/usr/bin/google-chrome-stable'];
-  for (const p of candidates) if (fs.existsSync(p)) return p;
-  const cacheDir = path.join(process.env.HOME || '/root', '.cache', 'ms-playwright');
-  if (fs.existsSync(cacheDir)) {
-    const dirs = fs.readdirSync(cacheDir).filter((d) => d.startsWith('chromium'));
+  const directCandidates = [
+    '/usr/bin/chromium',
+    '/usr/bin/chromium-browser',
+    '/usr/bin/google-chrome',
+    '/usr/bin/google-chrome-stable',
+  ];
+  for (const p of directCandidates) {
+    if (fs.existsSync(p)) return p;
+  }
+
+  const cacheRoots = [
+    '/opt/pw-browsers',
+    path.join(process.env.HOME || '/root', '.cache', 'ms-playwright'),
+  ];
+
+  for (const root of cacheRoots) {
+    if (!fs.existsSync(root)) continue;
+    const dirs = fs.readdirSync(root).filter((d) => d.startsWith('chromium'));
     for (const d of dirs) {
-      const exe = path.join(cacheDir, d, 'chrome-linux', 'chrome');
+      const exe = path.join(root, d, 'chrome-linux', 'chrome');
       if (fs.existsSync(exe)) return exe;
     }
   }
+
   return null;
 }
+
 function statFontSize(stat) {
   const len = stat.replace(/\s/g, '').length;
   if (len <= 5) return 300;
@@ -29,6 +44,7 @@ function statFontSize(stat) {
   if (len <= 12) return 160;
   return 120;
 }
+
 function buildBody(slide) {
   if (slide.layout === 'hero') {
     return `
@@ -97,4 +113,7 @@ async function main() {
   await browser.close();
 }
 
-main().catch((err) => { console.error(err); process.exit(1); });
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
