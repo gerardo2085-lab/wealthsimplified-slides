@@ -1,0 +1,57 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "Bitcoin just broke below its <span class=\"accent\">$60,517</span> 200-week MA — the line that's always been the cycle floor",
+    "stat": "$60,517",
+    "context": "Fear & Greed sits at Extreme Fear (12) with BTC at ~$60K — the same setup that preceded the 2019 and 2022 recoveries.",
+    "source": "Source: Coinglass / Bitcoinmagazinepro, June 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "Core PCE inflation hit <span class=\"accent\">3.4%</span> in May — the highest reading since October 2023",
+    "stat": "3.4%",
+    "context": "The Fed held rates at 3.50–3.75% in June and raised its year-end PCE forecast to 3.6% — no cuts in 2026.",
+    "source": "Source: BEA / CNBC, June 25, 2026",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "3 tickers worth watching <span class=\"accent\">this week</span>",
+    "items": [
+      {"ticker": "MU", "reason": "Micron up 15%+ after AI memory chip earnings crushed estimates — data center demand is accelerating fast"},
+      {"ticker": "ORCL", "reason": "Oracle beat EPS ($2.11 vs $1.89 expected) but fell 5% on $70B capex plan — potential bounce territory near $148"},
+      {"ticker": "MKC", "reason": "McCormick beat Q2 earnings (80¢ vs 69¢ EPS) — quiet defensive consumer staple gaining momentum"}
+    ],
+    "source": "Source: TheStreet / Yahoo Finance / CNBC, June 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "Americans now spend <span class=\"accent\">2.5%</span> of every paycheck on interest — before rent or groceries",
+    "stat": "2.5%",
+    "context": "Revolving credit balances are up 3.8% year-over-year while real wages have turned negative — a tightening squeeze.",
+    "source": "Source: RBC Economics, June 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "<span class=\"accent\">82%</span> of active fund managers fail to beat the index over 5 years",
+    "stat": "82%",
+    "context": "Index funds with expense ratios under 0.20% consistently beat most managers. The math has always been on your side.",
+    "source": "Source: SPIVA / S&P Dow Jones Indices, 2026",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "Save this. You'll need it.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
