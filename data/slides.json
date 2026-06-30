@@ -1,0 +1,57 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "SpaceX just completed the largest IPO in history — raising <span class=\"accent\">$75B</span> in a single offering",
+    "stat": "$75B",
+    "context": "SPCX priced at $135 and surged 19% to $160.95 on day one. Retail investors can now own a direct stake in SpaceX for the first time.",
+    "source": "Source: Morningstar / Wall Street Horizon, June 12, 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "PCE inflation hit <span class=\"accent\">3.8%</span> — nearly double the Fed's target with no cuts in sight",
+    "stat": "3.8%",
+    "context": "Nine of 18 FOMC members now pencil in a rate hike before year-end; the Q4 2026 core inflation forecast was revised from 2.7% to 3.3%.",
+    "source": "Source: Federal Reserve FOMC, June 17, 2026",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "3 tickers worth watching <span class=\"accent\">right now</span>",
+    "items": [
+      {"ticker": "SOXX", "reason": "Semiconductor ETF absorbing $3.2B in net retail inflows since Jan 2025 as hyperscalers commit $600–720B in AI capex — a 36–70% YoY surge"},
+      {"ticker": "SPCX", "reason": "SpaceX: largest IPO in history at $75B, +19% day one — structural institutional demand and a decade-long infrastructure story"},
+      {"ticker": "BAI", "reason": "BlackRock's top AI ETF pick for 2026 — diversified exposure to the AI buildout without concentrated single-stock risk"}
+    ],
+    "source": "Source: BlackRock / Morningstar / Wall Street Horizon, June 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "<span class=\"accent\">54%</span> of Americans are living paycheck to paycheck — one expense away from crisis",
+    "stat": "54%",
+    "context": "34% now describe their financial situation as 'struggling' or 'in crisis,' up from 22% in 2021 — a 55% deterioration in just five years.",
+    "source": "Source: Ramsey Solutions, State of Personal Finance Q1 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "$500 a month for 30 years turns $180K in contributions into over <span class=\"accent\">$1.1M</span>",
+    "stat": "$1.1M",
+    "context": "That's a 6x return on actual dollars invested — powered by consistent index fund investing at ~10% annually. Automate it and forget it.",
+    "source": "Source: Investor.gov / Vanguard, 2026",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "Follow for the next one.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
