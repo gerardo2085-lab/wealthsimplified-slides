@@ -1,0 +1,57 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "US oil inventories are now <span class=\"accent\">7%</span> below their 5-year average amid the Strait of Hormuz's months-long near-total closure",
+    "stat": "7%",
+    "context": "Crude stocks fell 6.1 million barrels to 412.1M in the week ended June 19, the third straight outsized weekly draw.",
+    "source": "Source: EIA Weekly Petroleum Status Report, week ended June 19, 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "Core PCE — the Fed's preferred inflation gauge — just climbed to <span class=\"accent\">3.4%</span>, with 9 of 18 officials now penciling in a hike",
+    "stat": "3.4%",
+    "context": "That's up from 3.3% in April and nearly double the Fed's 2% target, keeping July rate-hike odds alive.",
+    "source": "Source: U.S. Bureau of Economic Analysis, May 2026 PCE report",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "3 tickers worth watching <span class=\"accent\">this week</span>",
+    "items": [
+      {"ticker": "AVAV", "reason": "AeroVironment popped 30%+ on a blockbuster earnings beat and unusual volume — a clean breakout on defense-tech demand"},
+      {"ticker": "QQQ", "reason": "Nasdaq-100 adds SpaceX on July 7 — JPMorgan estimates $4.3B in passive inflows after the index's best quarter since 2020"},
+      {"ticker": "CMCL", "reason": "Caledonia Mining: $40M+ in annual free cash flow, now in a pullback zone after gold's 11% monthly dip"}
+    ],
+    "source": "Source: Yahoo Finance, CNBC, Forbes, June 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "Consumer sentiment just cratered to <span class=\"accent\">53.3</span> — deep in recession territory even as unemployment holds at 4.3%",
+    "stat": "53.3",
+    "context": "The index has plunged as living costs outpace wage gains, even with a still-solid labor market underneath it.",
+    "source": "Source: University of Michigan Surveys of Consumers, March 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "The average 401(k) saver now banks <span class=\"accent\">14.4%</span> of every paycheck — a record",
+    "stat": "14.4%",
+    "context": "Employee deferrals hit a record 9.6% on average, with auto-escalation driving 45% of savers to boost contributions this year.",
+    "source": "Source: Fidelity Q1 2026 Retirement Analysis",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "That's the system. Apply it.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
