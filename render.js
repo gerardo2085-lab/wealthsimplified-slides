@@ -37,6 +37,34 @@ function findChromiumPath() {
   return null;
 }
 
+const HTML_ENTITIES = {
+  '&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#39;': "'", '&apos;': "'", '&nbsp;': ' ',
+};
+
+function decodeHtmlEntities(str) {
+  return str.replace(/&(amp|lt|gt|quot|#39|apos|nbsp);/g, (m) => HTML_ENTITIES[m]);
+}
+
+function validateHeroStats(slides) {
+  slides.forEach((slide, i) => {
+    if (slide.layout !== 'hero') return;
+    const label = `Slide ${i + 1} (${slide.category || 'hero'})`;
+
+    const match = slide.headline.match(/<span class="accent">(.*?)<\/span>/);
+    if (!match) {
+      console.error(`${label}: headline has no <span class="accent"> stat — cannot validate against stat field "${slide.stat}".`);
+      process.exit(1);
+    }
+
+    const accentText = decodeHtmlEntities(match[1]).trim();
+    const stat = String(slide.stat).trim();
+    if (accentText !== stat) {
+      console.error(`${label}: headline accent "${accentText}" does not match stat field "${stat}". These must be identical.`);
+      process.exit(1);
+    }
+  });
+}
+
 function statFontSize(stat) {
   const len = stat.replace(/\s/g, '').length;
   if (len <= 5) return 300;
@@ -78,6 +106,8 @@ async function main() {
   const template = fs.readFileSync(TEMPLATE_PATH, 'utf-8');
   const slides = JSON.parse(fs.readFileSync(DATA_PATH, 'utf-8'));
   const total = slides.length;
+
+  validateHeroStats(slides);
 
   if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
