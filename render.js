@@ -97,7 +97,7 @@ function buildBody(slide) {
     return `<div class="list-headline">${slide.headline}</div><div class="list-items">${items}</div>`;
   }
   if (slide.layout === 'cta') {
-    return `<div class="cta-wrap"><div class="cta-line">${slide.line}</div></div>`;
+    return `<div class="cta-wrap"><div class="cta-line">${slide.line}</div><div class="cta-disclaimer">Informational only. Not financial advice.</div></div>`;
   }
   throw new Error(`Unknown layout: ${slide.layout}`);
 }
