@@ -1,0 +1,7 @@
+{
+  "opportunities": [
+    { "ticker": "AXP", "score": 68, "reason": "JPMorgan upgrade to Overweight, PT raised to $400" },
+    { "ticker": "META", "score": 71, "reason": "Up ~6% on AI cost-structure optimism, best week since 2024" }
+  ],
+  "avoid": { "ticker": "HUM", "reason": "Overbought, RSI above 70, more than doubled since March low" }
+}

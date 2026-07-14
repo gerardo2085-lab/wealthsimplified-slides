@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-07-14",
+    "release": "CPI (June)",
+    "consensus": "+3.8% y/y",
+    "previous": "+4.2% y/y"
+  },
+  {
+    "date": "2026-07-14",
+    "release": "Fed Chair Warsh semiannual testimony (House Financial Services Committee)",
+    "consensus": null,
+    "previous": null
+  },
+  {
+    "date": "2026-07-15",
+    "release": "PPI (June)",
+    "consensus": null,
+    "previous": "+1.1% m/m"
+  },
+  {
+    "date": "2026-07-15",
+    "release": "Fed Chair Warsh semiannual testimony (Senate Banking Committee)",
+    "consensus": null,
+    "previous": null
+  },
+  {
+    "date": "2026-07-16",
+    "release": "Initial Jobless Claims (week ended Jul 11)",
+    "consensus": null,
+    "previous": "215,000"
+  }
+]
