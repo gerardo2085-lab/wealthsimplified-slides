@@ -1,0 +1,7 @@
+{
+  "opportunities": [
+    { "ticker": "WFC", "score": 71, "reason": "Q2 EPS beat estimate by 16%, above 50D and 200D averages" },
+    { "ticker": "ETH", "score": 61, "reason": "ETF inflows resumed, testing $2,000 resistance level" }
+  ],
+  "avoid": { "ticker": "SNDK", "reason": "Down 6% on SK Hynix-driven memory sector profit-taking" }
+}

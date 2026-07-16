@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-07-14",
+    "release": "CPI (June)",
+    "consensus": "3.8% y/y",
+    "previous": "4.2% y/y"
+  },
+  {
+    "date": "2026-07-14",
+    "release": "Fed Chair Warsh semiannual testimony (House Financial Services)",
+    "consensus": null,
+    "previous": null
+  },
+  {
+    "date": "2026-07-15",
+    "release": "PPI (June)",
+    "consensus": null,
+    "previous": "6.5% y/y"
+  },
+  {
+    "date": "2026-07-16",
+    "release": "Retail Sales (June)",
+    "consensus": null,
+    "previous": "+0.9% m/m"
+  },
+  {
+    "date": "2026-07-17",
+    "release": "Housing Starts & Building Permits (June)",
+    "consensus": null,
+    "previous": "1,177,000 starts (SAAR)"
+  },
+  {
+    "date": "2026-07-17",
+    "release": "U. Michigan Consumer Sentiment (July, preliminary)",
+    "consensus": null,
+    "previous": "49.5 (June, final)"
+  }
+]
