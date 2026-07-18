@@ -1,0 +1,7 @@
+{
+  "opportunities": [
+    { "ticker": "TRV", "score": 71, "reason": "Q2 EPS crushed estimates, shares hit 52-week high" },
+    { "ticker": "MPC", "score": 64, "reason": "Citi target raised as refining margins widen" }
+  ],
+  "avoid": { "ticker": "AMD", "reason": "Caught in chip bear market, weak Q4 guidance" }
+}
