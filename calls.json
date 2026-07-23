@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "URI", "score": 76, "reason": "EPS beat by 10%, FY guidance raised, shares surged" },
+    { "ticker": "SMCI", "score": 74, "reason": "27% jump on $60B AI order backlog, raised margins" },
+    { "ticker": "XOM", "score": 62, "reason": "Buybacks, low leverage set to benefit from oil rally" }
+  ],
+  "avoid": { "ticker": "TSLA", "reason": "EPS missed by 38%, operating margin collapsed to 1.4%" }
+}
