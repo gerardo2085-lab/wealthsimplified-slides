@@ -1,0 +1,57 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "At least <span class=\"accent\">9</span> oil tankers have been attacked in the Strait of Hormuz since July 6.",
+    "stat": "9",
+    "context": "Insurers now refuse coverage for vessels transiting the chokepoint that carries roughly a fifth of global oil supply, and Brent has climbed near $94.",
+    "source": "Source: CNBC, Jul 17, 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "June core CPI cooled to <span class=\"accent\">2.6%</span> year-over-year, undershooting the 2.9% forecast.",
+    "stat": "2.6%",
+    "context": "Core prices were flat for the month, the softest reading outside a recession since 2017, ahead of the Fed's July 29 decision.",
+    "source": "Source: U.S. Bureau of Labor Statistics via CNBC, Jun 2026 CPI report, published Jul 14, 2026",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "Three setups scoring above 55 today, spanning industrials, AI infrastructure, and energy.",
+    "items": [
+      {"ticker": "URI", "reason": "Q2 EPS beat by over 10% on record rental revenue; shares jumped 10% and full-year guidance was raised. Opportunity score: 76/100."},
+      {"ticker": "SMCI", "reason": "Disclosed a record $60B AI order backlog and raised gross-margin guidance to 15%-17% from 8.2%-8.4%; shares rose as much as 27%. Opportunity score: 74/100."},
+      {"ticker": "XOM", "reason": "Low leverage and a $20B buyback position it to benefit as Hormuz-driven supply risk keeps crude elevated. Opportunity score: 62/100."}
+    ],
+    "source": "Source: Company filings, StockStory, and OilPrice.com, Jul 21-22, 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "Consumer sentiment jumped to <span class=\"accent\">54.4</span> in July, the best reading since February.",
+    "stat": "54.4",
+    "context": "Most survey interviews wrapped before U.S. strikes on Iran resumed July 7; sentiment still sits about 12% below year-ago levels.",
+    "source": "Source: University of Michigan Surveys of Consumers, preliminary Jul 2026, published Jul 17, 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "Roth accounts captured <span class=\"accent\">67%</span> of all IRA contributions in Q1, a new high.",
+    "stat": "67%",
+    "context": "Total IRA contributions rose a record 29% year-over-year, and Roth conversions jumped 41%, per Fidelity's latest retirement data.",
+    "source": "Source: Fidelity Investments Q1 2026 Retirement Analysis, published May 28, 2026",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "Save this. You'll need it.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
