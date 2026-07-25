@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "DLR", "score": 74, "reason": "Q2 FFO beat, raised guidance, shares at fresh highs" },
+    { "ticker": "BAH", "score": 71, "reason": "Earnings beat, defense rally on Mideast tensions" },
+    { "ticker": "ONDO", "score": 61, "reason": "SBI tokenization partnership fueling weekly gains" }
+  ],
+  "avoid": { "ticker": "ROL", "reason": "Earnings miss ended 99-quarter growth streak, dual downgrade" }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-07-29",
+    "release": "FOMC Rate Decision",
+    "consensus": "Hold at 3.50%-3.75%",
+    "previous": "Hold at 3.50%-3.75%"
+  },
+  {
+    "date": "2026-07-30",
+    "release": "GDP Q2 2026 (1st estimate)",
+    "consensus": null,
+    "previous": "data unavailable"
+  },
+  {
+    "date": "2026-07-30",
+    "release": "PCE Price Index (June)",
+    "consensus": null,
+    "previous": "Core PCE 3.4% y/y (May)"
+  },
+  {
+    "date": "2026-07-30",
+    "release": "Initial Jobless Claims",
+    "consensus": null,
+    "previous": "187,000 (week of Jul 18)"
+  },
+  {
+    "date": "2026-07-31",
+    "release": "Employment Cost Index (Q2)",
+    "consensus": null,
+    "previous": "data unavailable"
+  },
+  {
+    "date": "2026-07-31",
+    "release": "U. Michigan Consumer Sentiment (Final, July)",
+    "consensus": null,
+    "previous": "data unavailable"
+  }
+]
