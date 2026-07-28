@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-07-29",
+    "release": "FOMC Interest Rate Decision & Press Conference",
+    "consensus": "Hold at 3.50%-3.75% (38% implied odds of a hike)",
+    "previous": "Held at 3.50%-3.75% (June meeting)"
+  },
+  {
+    "date": "2026-07-30",
+    "release": "Core PCE Price Index (June, y/y)",
+    "consensus": "+3.4% y/y",
+    "previous": "+3.3% y/y (May)"
+  },
+  {
+    "date": "2026-07-30",
+    "release": "GDP (Q2 2026, advance estimate)",
+    "consensus": "~1.6% annualized (Atlanta Fed GDPNow)",
+    "previous": "+2.1% annualized (Q1 2026, final)"
+  },
+  {
+    "date": "2026-07-30",
+    "release": "Initial Jobless Claims (week ended Jul 25)",
+    "consensus": null,
+    "previous": "187,000 (week ended Jul 18)"
+  },
+  {
+    "date": "2026-07-31",
+    "release": "Employment Cost Index (Q2 2026)",
+    "consensus": null,
+    "previous": "data unavailable"
+  },
+  {
+    "date": "2026-07-31",
+    "release": "University of Michigan Consumer Sentiment (Final, July)",
+    "consensus": null,
+    "previous": "54.4 (July, preliminary)"
+  }
+]

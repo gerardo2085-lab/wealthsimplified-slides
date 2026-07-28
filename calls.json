@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "GD", "score": 75, "reason": "Jefferies Buy upgrade, $440 target, fresh 52-week high" },
+    { "ticker": "BKR", "score": 60, "reason": "Q2 earnings and revenue beat, up 2%+ premarket" },
+    { "ticker": "UBSI", "score": 58, "reason": "KBW price target raised on accelerating loan growth" }
+  ],
+  "avoid": { "ticker": "NVTS", "reason": "Down 6.5% on weak Q3 guidance despite revenue growth" }
+}
