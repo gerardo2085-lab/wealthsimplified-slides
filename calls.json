@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "GOOGL", "score": 68, "reason": "RSI 55 recovery, testing key resistance pre-earnings read-through" },
+    { "ticker": "AVGO", "score": 62, "reason": "Consolidating above 200-day average, eyeing breakout level" },
+    { "ticker": "CAT", "score": 58, "reason": "Pulled back to 200-day average, RSI in pullback zone" }
+  ],
+  "avoid": { "ticker": "QCOM", "reason": "Handset revenue fell 20%, weak Q4 guidance" }
+}
