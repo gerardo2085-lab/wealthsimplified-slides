@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "AMZN", "score": 82, "reason": "AWS grew 36.7%, fastest in 18 quarters, beat estimates" },
+    { "ticker": "ATKR", "score": 66, "reason": "Prysmian buyout at $95/share cash, shares jumped 26%" },
+    { "ticker": "IWM", "score": 58, "reason": "Small caps outpacing S&P, 50D/200D averages rising" }
+  ],
+  "avoid": { "ticker": "META", "reason": "EPS missed by 13.8%, weak Q3 guide, capex raised" }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-08-03",
+    "release": "ISM Manufacturing PMI (July)",
+    "consensus": "53.5%",
+    "previous": "53.3%"
+  },
+  {
+    "date": "2026-08-04",
+    "release": "JOLTS Job Openings (June)",
+    "consensus": "6.88M",
+    "previous": "7.594M"
+  },
+  {
+    "date": "2026-08-05",
+    "release": "ISM Services PMI (July)",
+    "consensus": null,
+    "previous": "54.0%"
+  },
+  {
+    "date": "2026-08-07",
+    "release": "Employment Situation / Nonfarm Payrolls (July)",
+    "consensus": "+104,000",
+    "previous": "+57,000"
+  }
+]
