@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-08-04",
+    "release": "JOLTS Job Openings (June)",
+    "consensus": "7.400M",
+    "previous": "7.500M"
+  },
+  {
+    "date": "2026-08-05",
+    "release": "ISM Services PMI (July)",
+    "consensus": "54.9",
+    "previous": "54.0"
+  },
+  {
+    "date": "2026-08-06",
+    "release": "Initial Jobless Claims (week ending Aug 1)",
+    "consensus": "202K",
+    "previous": "197K"
+  },
+  {
+    "date": "2026-08-07",
+    "release": "Nonfarm Payrolls (July)",
+    "consensus": "+120K",
+    "previous": "+57K"
+  },
+  {
+    "date": "2026-08-07",
+    "release": "Unemployment Rate (July)",
+    "consensus": "4.3%",
+    "previous": "4.2%"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "ANET", "score": 82, "reason": "Q2 beat, Q3 guidance raised on AI-switching demand" },
+    { "ticker": "NVDA", "score": 68, "reason": "Premarket gain on partner's AI infra demand signal" },
+    { "ticker": "GLD", "score": 59, "reason": "Holding near range highs as the dollar weakens" }
+  ],
+  "avoid": { "ticker": "AMD", "reason": "Beat every metric but fell 8% on profit-taking" }
+}
