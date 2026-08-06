@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    {"ticker": "BKNG", "score": 78, "reason": "All-metric beat, record buyback, shares jumped after hours"},
+    {"ticker": "AMD", "score": 63, "reason": "Revenue and Data Center growth strong despite margin-driven pullback"},
+    {"ticker": "KGS", "score": 59, "reason": "Above 200-day average, 5.2% yield, mid-range valuation"}
+  ],
+  "avoid": {"ticker": "LCID", "reason": "Delivery cut, dilution risk, active shareholder lawsuits"}
+}
