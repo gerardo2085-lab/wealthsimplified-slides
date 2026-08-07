@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    {"ticker": "ON", "score": 76, "reason": "AI data-center revenue set to more than double in 2026"},
+    {"ticker": "CEG", "score": 69, "reason": "Guidance raised on new nuclear power deals"},
+    {"ticker": "SLV", "score": 61, "reason": "Silver near multi-month high on weaker dollar"}
+  ],
+  "avoid": {"ticker": "RBLX", "reason": "Withdrew FY guidance, forecasts first bookings decline"}
+}

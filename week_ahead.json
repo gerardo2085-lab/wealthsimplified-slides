@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-08-03",
+    "release": "ISM Manufacturing PMI (July)",
+    "consensus": "54.0%",
+    "previous": "53.3%"
+  },
+  {
+    "date": "2026-08-04",
+    "release": "JOLTS Job Openings (June)",
+    "consensus": "7.40M",
+    "previous": "7.54M"
+  },
+  {
+    "date": "2026-08-05",
+    "release": "ADP Employment Report (July)",
+    "consensus": "+70,000",
+    "previous": "+98,000"
+  },
+  {
+    "date": "2026-08-06",
+    "release": "ISM Services PMI (July)",
+    "consensus": "54.5",
+    "previous": "54.0"
+  },
+  {
+    "date": "2026-08-07",
+    "release": "Nonfarm Payrolls & Unemployment Rate (July)",
+    "consensus": "+80,000 payrolls; 4.2% unemployment",
+    "previous": "+57,000 payrolls; 4.2% unemployment"
+  }
+]
