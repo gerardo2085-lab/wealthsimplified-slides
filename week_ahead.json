@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-08-12",
+    "release": "CPI (July)",
+    "consensus": "+0.2% m/m / +2.8% y/y",
+    "previous": "-0.4% m/m / +3.5% y/y"
+  },
+  {
+    "date": "2026-08-13",
+    "release": "PPI (July)",
+    "consensus": "+0.1% m/m",
+    "previous": "-0.3% m/m"
+  },
+  {
+    "date": "2026-08-13",
+    "release": "Initial Jobless Claims",
+    "consensus": null,
+    "previous": "199,000 (week of Aug 1)"
+  },
+  {
+    "date": "2026-08-14",
+    "release": "Retail Sales (July)",
+    "consensus": null,
+    "previous": "+0.2% m/m"
+  }
+]

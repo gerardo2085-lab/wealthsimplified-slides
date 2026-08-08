@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "IONQ", "score": 72, "reason": "Q2 revenue +287% YoY, beat by 61%, guidance raised" },
+    { "ticker": "B", "score": 68, "reason": "Consistent beat history, up 78% YTD as gold holds $4,300" },
+    { "ticker": "XLE", "score": 61, "reason": "50-day crossed above 200-day; Brent holding Hormuz premium" }
+  ],
+  "avoid": { "ticker": "FISV", "reason": "Missed Q2 revenue, cut FY26 EPS guidance" }
+}
