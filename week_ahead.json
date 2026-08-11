@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-08-12",
+    "release": "CPI (July)",
+    "consensus": "+3.4% y/y",
+    "previous": "+3.5% y/y"
+  },
+  {
+    "date": "2026-08-13",
+    "release": "PPI (July)",
+    "consensus": "+0.2% m/m",
+    "previous": "-0.3% m/m"
+  },
+  {
+    "date": "2026-08-13",
+    "release": "Initial Jobless Claims (week ended Aug 8)",
+    "consensus": "202k",
+    "previous": "199k"
+  },
+  {
+    "date": "2026-08-14",
+    "release": "Retail Sales (July)",
+    "consensus": null,
+    "previous": "+0.2% m/m"
+  },
+  {
+    "date": "2026-08-14",
+    "release": "University of Michigan Consumer Sentiment (August, preliminary)",
+    "consensus": null,
+    "previous": "55.2 (July, final)"
+  }
+]

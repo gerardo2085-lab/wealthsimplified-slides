@@ -1,0 +1,7 @@
+{
+  "opportunities": [
+    { "ticker": "MU", "score": 74, "reason": "Seventh straight EPS beat, revenue beat 17.6%, guidance raised" },
+    { "ticker": "CVX", "score": 63, "reason": "Golden cross confirmed, breaking out on rising oil prices" }
+  ],
+  "avoid": { "ticker": "TTD", "reason": "Revenue miss, growth decelerating sharply, cut to Sell" }
+}
