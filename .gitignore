@@ -6,6 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Daily brief pipeline: these are generated per run and persisted to D1,
+# not tracked in git (only output/*.png + data/slides.json go to git)
+package-lock.json
+deep_brief.json
+week_ahead.json
+calls.json
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
