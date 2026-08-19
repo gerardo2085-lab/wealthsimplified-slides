@@ -1,0 +1,7 @@
+{
+  "opportunities": [
+    { "ticker": "HAE", "score": 78, "reason": "Q1 beat, raised guidance, breakout above 50/200-day" },
+    { "ticker": "XLE", "score": 62, "reason": "Golden cross confirmed as oil holds risk premium" }
+  ],
+  "avoid": { "ticker": "FN", "reason": "Beat estimates but FCF negative, guidance turned soft" }
+}

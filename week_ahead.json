@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-08-18",
+    "release": "Housing Starts & Building Permits (July)",
+    "consensus": "1.35M SAAR starts",
+    "previous": "1.427M SAAR (June)"
+  },
+  {
+    "date": "2026-08-19",
+    "release": "FOMC Minutes (July 28-29 meeting)",
+    "consensus": null,
+    "previous": null
+  },
+  {
+    "date": "2026-08-20",
+    "release": "Initial Jobless Claims (week ended Aug 15)",
+    "consensus": "202,000",
+    "previous": "209,000"
+  },
+  {
+    "date": "2026-08-21",
+    "release": "S&P Global Flash PMI (Manufacturing & Services, August)",
+    "consensus": null,
+    "previous": "53.8 (Manufacturing, July)"
+  }
+]
