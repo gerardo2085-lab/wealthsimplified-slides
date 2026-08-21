@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "HL", "score": 78, "reason": "Up 30% in August as gold and silver hit record highs" },
+    { "ticker": "NVDA", "score": 65, "reason": "Strong Buy consensus ahead of Aug 26 earnings" },
+    { "ticker": "KO", "score": 58, "reason": "Fresh 52-week high on raised EPS guidance" }
+  ],
+  "avoid": { "ticker": "CRH", "reason": "Down 22% YTD to a 52-week low despite record revenue" }
+}

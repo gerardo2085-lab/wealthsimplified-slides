@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-08-19",
+    "release": "FOMC Minutes (July 28-29 meeting)",
+    "consensus": null,
+    "previous": null
+  },
+  {
+    "date": "2026-08-20",
+    "release": "Initial Jobless Claims (week ended Aug 15)",
+    "consensus": "210K",
+    "previous": "212K"
+  },
+  {
+    "date": "2026-08-21",
+    "release": "S&P Global US Flash Composite PMI (August)",
+    "consensus": "53.5",
+    "previous": "54.3"
+  }
+]
