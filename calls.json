@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "ETHA", "score": 66, "reason": "ETF inflows, ETH above key averages" },
+    { "ticker": "MRVL", "score": 62, "reason": "Above 200-day average, earnings Thursday" },
+    { "ticker": "PAAS", "score": 59, "reason": "Record Q2 earnings, silver near highs" }
+  ],
+  "avoid": { "ticker": "INTU", "reason": "FY2027 guidance badly missed despite Q4 beat" }
+}
