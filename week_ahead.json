@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-09-01",
+    "release": "ISM Manufacturing PMI (August)",
+    "consensus": "55.2",
+    "previous": "55.6"
+  },
+  {
+    "date": "2026-09-01",
+    "release": "JOLTS Job Openings (July)",
+    "consensus": "7.3M",
+    "previous": "7.359M"
+  },
+  {
+    "date": "2026-09-03",
+    "release": "Initial Jobless Claims (weekly)",
+    "consensus": null,
+    "previous": "203,000"
+  },
+  {
+    "date": "2026-09-04",
+    "release": "Nonfarm Payrolls (August)",
+    "consensus": "+73,000",
+    "previous": "-23,000"
+  },
+  {
+    "date": "2026-09-04",
+    "release": "Unemployment Rate (August)",
+    "consensus": "4.3%",
+    "previous": "4.1%"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "SAIC", "score": 74, "reason": "Fresh 52-week high on a 30% EPS beat and raised guidance" },
+    { "ticker": "VLO", "score": 71, "reason": "New 52-week high as diesel margins hit a record" },
+    { "ticker": "MSTR", "score": 64, "reason": "Pulling back to support after August's breakout" }
+  ],
+  "avoid": { "ticker": "PCG", "reason": "California blocked wildfire liability protections it sought" }
+}
