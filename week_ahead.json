@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-09-16",
+    "release": "FOMC Rate Decision",
+    "consensus": null,
+    "previous": "3.50%-3.75% (held, Jul 29 meeting)"
+  },
+  {
+    "date": "2026-09-16",
+    "release": "Retail Sales (Aug)",
+    "consensus": null,
+    "previous": "-0.6% m/m (Jul)"
+  },
+  {
+    "date": "2026-09-16",
+    "release": "Industrial Production (Aug)",
+    "consensus": null,
+    "previous": "+0.2% m/m (Jul)"
+  },
+  {
+    "date": "2026-09-17",
+    "release": "Housing Starts (Aug)",
+    "consensus": null,
+    "previous": "1.24M units annualized (Jul)"
+  },
+  {
+    "date": "2026-09-18",
+    "release": "Initial Jobless Claims",
+    "consensus": null,
+    "previous": "206,000 (prior week)"
+  }
+]

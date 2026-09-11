@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "CVX", "score": 74, "reason": "Fresh 52-week high as crude rally lifts energy majors" },
+    { "ticker": "FIV", "score": 71, "reason": "Raised FY26 guidance after Q2 beat, targets lifted" },
+    { "ticker": "MLM", "score": 66, "reason": "Wells Fargo upgrade, price target lifted to $609" }
+  ],
+  "avoid": { "ticker": "DAL", "reason": "Jet-fuel costs erode margins as oil tops $100" }
+}
