@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    { "ticker": "ON", "score": 74, "reason": "8% surge on AI data-center demand, rebounding from a slide" },
+    { "ticker": "GIC", "score": 65, "reason": "Fresh 52-week high after a 30% EPS beat, Strong Buy upgrade" },
+    { "ticker": "IBIT", "score": 61, "reason": "Spot Bitcoin ETFs logged a $3.8B three-week inflow streak" }
+  ],
+  "avoid": { "ticker": "SMR", "reason": "UBS downgraded to Sell, cut target to $6, implying 40% downside" }
+}

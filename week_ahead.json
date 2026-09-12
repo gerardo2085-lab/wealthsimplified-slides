@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-09-15",
+    "release": "Empire State Manufacturing Index (September)",
+    "consensus": null,
+    "previous": "20.6"
+  },
+  {
+    "date": "2026-09-16",
+    "release": "Retail Sales (August)",
+    "consensus": "+0.3% m/m",
+    "previous": "-0.6% m/m"
+  },
+  {
+    "date": "2026-09-16",
+    "release": "FOMC Rate Decision",
+    "consensus": null,
+    "previous": "3.50%-3.75% (held)"
+  },
+  {
+    "date": "2026-09-17",
+    "release": "Initial Jobless Claims",
+    "consensus": null,
+    "previous": "206,000"
+  },
+  {
+    "date": "2026-09-17",
+    "release": "Philadelphia Fed Manufacturing Index (September)",
+    "consensus": null,
+    "previous": "47.4"
+  }
+]
