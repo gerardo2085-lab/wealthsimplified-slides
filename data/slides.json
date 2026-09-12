@@ -1,0 +1,57 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "Consumer sentiment sank to <span class=\"accent\">47.8</span> in September, near a record low.",
+    "stat": "47.8",
+    "context": "The reading missed forecasts of 51.0 by a wide margin even as unemployment held near 4.3%.",
+    "source": "Source: University of Michigan Surveys of Consumers, Sept 11, 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "Fed rate-hike odds jumped to <span class=\"accent\">87%</span> after a hotter-than-expected August CPI report.",
+    "stat": "87%",
+    "context": "August CPI rose 3.4% year-over-year, with the Fed's decision due Wednesday, September 16.",
+    "source": "Source: CME FedWatch Tool via Reuters, Sept 11, 2026",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "Three setups scoring above 55 today, spanning AI chips, industrial distribution, and bitcoin ETF flows.",
+    "items": [
+      {"ticker": "ON", "reason": "Surged 8% on AI data-center demand, rebounding from a monthly slide. Opportunity score: 74/100."},
+      {"ticker": "GIC", "reason": "Fresh 52-week high after a 30% EPS beat and a Strong Buy upgrade. Opportunity score: 65/100."},
+      {"ticker": "IBIT", "reason": "Anchored a $3.8B three-week Bitcoin ETF inflow streak, 2026's strongest. Opportunity score: 61/100."}
+    ],
+    "source": "Source: Yahoo Finance, MarketBeat, CoinMarketCap, Sept 5-11, 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "U.S. wage growth slowed to <span class=\"accent\">3.1%</span> a year, its weakest pace in five years.",
+    "stat": "3.1%",
+    "context": "Inflation has outpaced pay gains for much of 2026, squeezing real purchasing power for workers.",
+    "source": "Source: U.S. Bureau of Labor Statistics, Employment Situation, Aug 2026 (Sept 4, 2026)",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "U.S. ETF inflows are on pace for a record <span class=\"accent\">$2.3 trillion</span> in 2026.",
+    "stat": "$2.3 trillion",
+    "context": "That would shatter 2025's $1.5 trillion record, as investors keep shifting toward low-cost index funds.",
+    "source": "Source: State Street Investment Management, Aug 2026",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "That's the system. Apply it.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
