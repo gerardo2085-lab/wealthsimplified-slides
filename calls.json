@@ -1,0 +1,7 @@
+{
+  "opportunities": [
+    { "ticker": "EQT", "score": 63, "reason": "Truist raised target to $56 as gas prices firm" },
+    { "ticker": "MRVL", "score": 71, "reason": "Custom AI deal with Google backs Strong Buy consensus" }
+  ],
+  "avoid": { "ticker": "LCID", "reason": "Morgan Stanley cut to Underweight on dilution risk" }
+}
