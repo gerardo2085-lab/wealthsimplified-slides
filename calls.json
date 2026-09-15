@@ -1,0 +1,8 @@
+{
+  "opportunities": [
+    {"ticker": "FRO", "score": 74, "reason": "Tanker rates at records on Hormuz and pipeline disruption"},
+    {"ticker": "GOOGL", "score": 68, "reason": "Rose as investors rotate into hyperscalers, away from chips"},
+    {"ticker": "PFE", "score": 61, "reason": "Fresh 52-week high on Q2 beat and raised guidance"}
+  ],
+  "avoid": {"ticker": "GLW", "reason": "Down 13.7% on AI-slowdown and dilution concerns"}
+}
