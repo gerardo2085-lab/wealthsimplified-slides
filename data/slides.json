@@ -1,0 +1,57 @@
+[
+  {
+    "category": "HOOK",
+    "layout": "hero",
+    "headline": "AI slowdown warnings erased <span class=\"accent\">$176.6B</span> from Nvidia's market cap in a single day.",
+    "stat": "$176.6B",
+    "context": "The PHLX Semiconductor Index sank almost 6% after Anthropic and OpenAI's CEOs urged slower AI development.",
+    "source": "Source: MarketBeat, Sept 14, 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "MACRO",
+    "layout": "hero",
+    "headline": "The 10-year Treasury yield hit <span class=\"accent\">5.014%</span>, its highest since 2023.",
+    "stat": "5.014%",
+    "context": "The threshold crossing came Monday, as a global bond selloff pushed borrowing costs higher ahead of Wednesday's Fed decision.",
+    "source": "Source: Bloomberg and CNBC, Sept 14, 2026",
+    "background": "macro-policy.jpeg"
+  },
+  {
+    "category": "MARKETS",
+    "layout": "list",
+    "headline": "Three setups scoring above 55 today, spanning tankers, hyperscalers, and healthcare.",
+    "items": [
+      {"ticker": "FRO", "reason": "Tanker rates hit record highs as Hormuz and Saudi pipeline disruptions squeeze crude shipping. Opportunity score: 74/100."},
+      {"ticker": "GOOGL", "reason": "Rose while chipmakers sold off, as investors rotate toward hyperscalers with less AI-capex risk. Opportunity score: 68/100."},
+      {"ticker": "PFE", "reason": "Fresh 52-week high after a Q2 beat and raised guidance, benefiting from the rotation out of chips. Opportunity score: 61/100."}
+    ],
+    "source": "Source: Company filings, TipRanks, and StockAnalysis.com consensus data, Sept 2026",
+    "background": "cluster5-ai-investing.jpeg"
+  },
+  {
+    "category": "PERSONAL FINANCE",
+    "layout": "hero",
+    "headline": "The personal savings rate fell to just <span class=\"accent\">3.0%</span> in July, a multi-year low.",
+    "stat": "3.0%",
+    "context": "Households are saving less of every disposable dollar even as spending holds up, per new federal data.",
+    "source": "Source: U.S. Bureau of Economic Analysis, July 2026",
+    "background": "cluster4-personal-finance.jpeg"
+  },
+  {
+    "category": "WEALTH BUILDING",
+    "layout": "hero",
+    "headline": "Fidelity just counted a record <span class=\"accent\">769,000</span> 401(k) millionaires.",
+    "stat": "769,000",
+    "context": "That's up 19% from 654,000 last quarter, the largest jump in the count since late 2023.",
+    "source": "Source: Fidelity Investments Q2 2026 data, reported Sept 2026",
+    "background": "cluster3-side-hustle.jpeg"
+  },
+  {
+    "category": "CTA",
+    "layout": "cta",
+    "line": "Follow for the next one.",
+    "source": "",
+    "background": "cluster1-ai-budget-tools.jpeg"
+  }
+]
